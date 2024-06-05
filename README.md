@@ -7,13 +7,14 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Vk-Api](https://img.shields.io/badge/VK_API-%230077ff?style=flat-square&logo=VK) ![Discord.py](https://img.shields.io/badge/Discord.py-gray?style=flat-square&logo=Discord&logoColor=white
 ) ![Pandas](https://img.shields.io/badge/Pandas-130754?style=flat-square&logo=pandas&logoColor=white
+) ![NumPy](https://img.shields.io/badge/NumPy-4D77CF?style=flat-square&logo=Numpy
 )
 
 
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bebrowskiy&show_icons=true&theme=auto)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bebrowskiy&show_icons=true&bg_color=00000000&hide=contribs,issues)
 
 ## 📫 How to Reach Me
 

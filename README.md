@@ -1,6 +1,6 @@
 # Hi there, I'm Bebrowskiy! ✨
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&pause=500&color=F7CAE2&random=true&width=435&lines=Just+relax...+;Life+is+wonderful+%E2%99%A1;Eat.+Sleep.+Code.+Repeat...;Hello%2C+World!;There's+no+place+like+127.0.0.1+;To+code+or+not+to+code%2C+that+is+the+question...+Hm...;Life+is+short.+Use+Python!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&pause=500&color=DC97D8&random=true&width=435&lines=Just+relax...+;Life+is+wonderful+%E2%99%A1;Eat.+Sleep.+Code.+Repeat...;Hello%2C+World!;There's+no+place+like+127.0.0.1+;To+code+or+not+to+code%2C+that+is+the+question...+Hm...;Life+is+short.+Use+Python!)](https://git.io/typing-svg)
 
 ## 🔧 Technologies & Tools
 

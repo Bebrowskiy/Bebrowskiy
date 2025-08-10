@@ -20,22 +20,22 @@
 
   <h2 align="center">🛠️ My Skills</h2>
   <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg " height="40" alt="Python" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
     <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg " height="40" alt="HTML5" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
     <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg " height="40" alt="CSS3" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
     <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg " height="40" alt="JavaScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
     <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg " height="40" alt="Git" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   </p>
   <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg " height="40" alt="FastAPI" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
     <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg " height="40" alt="SQL" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" alt="SQL" />
     <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg " height="40" alt="Arch">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="40" alt="Arch">
   </p>
 
   <br/>
@@ -62,15 +62,15 @@
   <h2 align="center"> 📫 Let's Connect! </h2>
   <p align="center">
     <a href=" https://t.me/MOKIROY " target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg " height="40" alt="Telegram" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="40" alt="Telegram" />
     </a>
     <img width="20" />
     <a href="https://link.brawlstars.com/?supercell_id&p=16-91952092-5649-4403-9d9c-6d1d248ac129" target="_blank">
-      <img src=" https://upload.wikimedia.org/wikipedia/commons/5/5a/Supercell-logo.svg " height="40" alt="Supercell ID" />
+      <img src=" https://upload.wikimedia.org/wikipedia/commons/5/5a/Supercell-logo.svg" height="40" alt="Supercell ID" />
     </a>
     <img width="20" />
     <a href="mailto:bebrow2021@vk.com">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png " height="40" alt="Gmail" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" alt="Gmail" />
     </a>
   </p>
 

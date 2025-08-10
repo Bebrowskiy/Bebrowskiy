@@ -53,8 +53,8 @@
 
   <h2 align="center"> 📈 My GitHub Stats </h2>
   <p align="center">
-    <img src=" https://github-readme-stats.vercel.app/api?username=bebrowskiy&show_icons=true&theme=buefy&hide_border=true&bg_color=00000000" width="400" alt="GitHub Stats"/>
-    <img src=" https://github-readme-stats.vercel.app/api/top-langs/?username=bebrowskiy&layout=compact&theme=buefy&hide_border=true&bg_color=00000000" width="400" alt="Top Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=bebrowskiy&show_icons=true&theme=buefy&hide_border=true&bg_color=00000000" width="400" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bebrowskiy&layout=compact&theme=buefy&hide_border=true&bg_color=00000000" width="400" alt="Top Langs"/>
   </p>
 
   <br/>
@@ -66,7 +66,7 @@
     </a>
     <img width="20" />
     <a href="https://link.brawlstars.com/?supercell_id&p=16-91952092-5649-4403-9d9c-6d1d248ac129" target="_blank">
-      <img src=" https://upload.wikimedia.org/wikipedia/commons/5/5a/Supercell-logo.svg" height="40" alt="Supercell ID" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Supercell-logo.svg" height="40" alt="Supercell ID" />
     </a>
     <img width="20" />
     <a href="mailto:bebrow2021@vk.com">
